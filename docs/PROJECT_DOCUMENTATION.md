@@ -85,7 +85,7 @@ Sequential Logic Design
 Functional Verification
 Waveform Debugging
 
-10.Conclusion
+9.Conclusion
 The project successfully demonstrates the design  of a synchronous FSM-based traffic light controller.
 Simulation results confirm correct state transitions, timing behaviour, and safe traffic sequencing.
 This implementation strengthens understanding of FSM design, RTL coding practices, and hardware verification workflows.
